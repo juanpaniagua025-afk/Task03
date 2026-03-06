@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Diamond/">
+    <Project Path="exercises32/exercises32.csproj" />
+  </Folder>
+  <Folder Name="/MATRIX MULTIPLICATION/">
+    <File Path="exercises32/Program.cs" />
+    <Project Path="exercises33/exercises33.csproj" />
+  </Folder>
+</Solution>
