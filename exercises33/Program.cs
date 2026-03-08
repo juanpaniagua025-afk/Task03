@@ -1,9 +1,6 @@
-﻿using System;
+﻿
 
-
-
-
-		Console.Write("Ingrese el valor de m: ");
+        Console.Write("Ingrese el valor de m: ");
 		int m = int.Parse(Console.ReadLine()!);
 
 		Console.Write("Ingrese el valor de n: ");
